@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "gisketch",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -16,7 +16,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "assets/cat_leaves.png",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -115,23 +115,18 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "https://gisketch.com",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
-					},
-					{
-						"name": "GPT",
+						"name": "ChatGPT",
 						"url": "https://chat.openai.com/",
 						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "YouTube",
+						"url": "https://youtube.com",
+						"icon": "fa-brands:youtube"
 					}
 				]
 			},
@@ -144,11 +139,6 @@
 						"name": "GitHub",
 						"url": "https://github.com",
 						"icon": "mdi:github"
-					},
-					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
 						"name": "Dev.to",
@@ -173,9 +163,9 @@
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Messenger",
+						"url": "https://messenger.com/",
+						"icon": "fa-brands:facebook-messenger"
 					},
 					{
 						"name": "Reddit",
@@ -183,9 +173,9 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Instagram",
+						"url": "https://instagram.com",
+						"icon": "mdi:instagram"
 					}
 				]
 			},
@@ -217,29 +207,29 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Work",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
+						"name": "ClickUp",
+						"url": "https://clickup.com/",
 						"icon": "material-symbols:science"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Slack",
+						"url": "https://slack.com",
+						"icon": "fa-brands:slack"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "GitLab",
+						"url": "https://gitlab.com",
+						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Notion",
+						"url": "https://notion.so",
+						"icon": "mdi:text"
 					}
 				]
 			},
